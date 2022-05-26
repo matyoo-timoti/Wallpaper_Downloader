@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">WallpaperDownloader</string>
+    <string name="download">Download</string>
+    <string name="save_image">Save Image</string>
+    <string name="wallpaper_downloader">Wallpaper Downloader</string>
+    <string name="search">Search</string>
+    <string name="enter_keyword">Enter keyword</string>
+    <string name="gallery">Gallery</string>
+    <string name="api_key" tools:ignore="TypographyDashes">1e97ae05-6074-4fe3-9306-14b619448674</string>
+    <string name="api">https://api.thecatapi.com/v1/images/search</string>
+    <string name="recent">Recent</string>
+</resources>
